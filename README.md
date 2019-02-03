@@ -1,0 +1,2 @@
+# BilgeAdamOdev
+Ödevler
